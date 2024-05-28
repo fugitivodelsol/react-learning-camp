@@ -1,0 +1,22 @@
+
+body{/*Ejemplo selector*/
+    background-color: #E2DFD0;/*Ejemplo color hexadecimal*/
+}
+h1{ 
+    text-align: center;
+}
+#first-title{/*Ejemplo id*/
+    background-color: rgb(95, 35, 35);/*Ejemplo color rgb*/
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    background-color: rgb(53, 44, 44);
+    border-radius: 5px;
+}
+.text-color{/*Ejemplo clase*/
+    color: rgb(243, 220, 157);
+}
+
+
+
